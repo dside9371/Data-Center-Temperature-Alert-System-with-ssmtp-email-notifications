@@ -19,7 +19,9 @@ The Linux Realm
 ---------------
 
 After you ssh-ed to the device you need to install the ssmtp package through command line
+
 $opkg update
+
 $opkg install ssmtp  
 
 Configure your ssmtp configuration file by using vi
