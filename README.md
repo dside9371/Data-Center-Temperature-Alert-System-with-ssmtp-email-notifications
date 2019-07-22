@@ -24,7 +24,7 @@ $opkg update
 
 $opkg install ssmtp  
 
----now configure your ssmtp configuration file by using vi---
+---now modify your ssmtp configuration file by using vi---
 
 $vi  /etc/ssmtp/ssmtp.conf
 
