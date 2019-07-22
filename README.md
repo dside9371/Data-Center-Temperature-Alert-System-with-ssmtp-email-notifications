@@ -1,5 +1,6 @@
 # Data-Center-Temperature-Alert-System-with-ssmtp-email-notifications
-I created this system because we had an issue with our HVAC unit in our Data Center
+I created this system because we had an issue with our HVAC unit in our Data Center.
+
 Hardware: Arduino YUN REV2, Gikfun DS18B20 Temperature Sensors, 2 LEDs, 2 220ohm Resistors, and 1 4.7Kohm resistor.
 
 steps: 
